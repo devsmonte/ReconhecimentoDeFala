@@ -37,9 +37,9 @@ texto_referencia = "O menino quer um burrinho pra passear Um burrinho manso que 
 
 # Nome do arquivo de áudio gravado que você deseja transcrever
 #Leitura incorreta
-audio_file = "D:\Pessoal\\Academico\\SOFTEX\\IdentificarAudio\\teste1.wav"
+audio_file = "teste1.wav"
 #Leitura correta
-#audio_file = "D:\Pessoal\\Academico\\SOFTEX\\IdentificarAudio\\teste2.wav"
+#audio_file = "teste2.wav"
 
 # Transcreve o áudio
 transcricao = transcrever_audio(audio_file)
