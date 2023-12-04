@@ -5,9 +5,9 @@ Este script Python foi desenvolvido para realizar o reconhecimento de fala em ar
 ## Funcionalidades
 
 - **Transcrição de Áudio para Texto:** Utiliza a biblioteca SpeechRecognition para converter áudios em formatos diversos (como WAV, MP3, etc.) em texto escrito.
-- 
+  
 - **Avaliação da Precisão:** Compara a transcrição obtida do áudio com um texto de referência predefinido para calcular a precisão das palavras reconhecidas.
-- 
+  
 - **Integração com Processamento de Linguagem Natural (NLTK):** Utiliza o Natural Language Toolkit para tokenização, permitindo uma análise mais granular e precisa.
 
 ## Utilização
